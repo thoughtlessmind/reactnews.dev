@@ -16,6 +16,9 @@ It would be helpful if add these things:
 
 ## Contributors 
 Tanay Pratap
+
 Mohammad Shabaz Moosa
+
 Vishwa Mehta
+
 Aditya Agarwal
