@@ -7,7 +7,7 @@ Please suggest things which we should include in our newsletter.
 ### How?
 While we come with up with a more robust process with Continuous Deployment of our newsletter, raise an issue with your suggested content. 
 
-It would be helpful if add these things:
+It would be helpful if you add these things:
 
 * A classifier [ Podcast | Twitter Thread | Open Source | Free training material | Youtube video | Blog | Timeless classics ]
 * A heading
